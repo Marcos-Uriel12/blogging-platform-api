@@ -1,4 +1,4 @@
-url:https://roadmap.sh/projects/blogging-platform-api
+
 # Blogging API
 
 REST API para gestión de blogs construida con FastAPI, SQLAlchemy y MySQL. Permite registrar usuarios, crear posts con categorías y tags, y publicarlos con autenticación JWT.
@@ -8,6 +8,9 @@ REST API para gestión de blogs construida con FastAPI, SQLAlchemy y MySQL. Perm
 ## Instalación y ejecución
 
 ```bash
+# 0. CLonar el repo
+https://roadmap.sh/projects/blogging-platform-api
+
 # 1. Crear y activar entorno virtual
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
