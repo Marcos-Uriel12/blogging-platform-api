@@ -81,3 +81,6 @@ SECRET_KEY=<clave_secreta_aleatoria>
 | DELETE | `/tags/{tag_id}` | Eliminar tag | Si |
 
 > Los endpoints con **Auth: Si** requieren el header `Authorization: Bearer <token>` obtenido en `/auth/login`.
+
+### Roadmap.sh
+Url: https://roadmap.sh/projects/blogging-platform-api
