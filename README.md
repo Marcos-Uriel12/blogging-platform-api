@@ -9,7 +9,7 @@ REST API para gestión de blogs construida con FastAPI, SQLAlchemy y MySQL. Perm
 
 ```bash
 # 0. CLonar el repo
-git clone https://roadmap.sh/projects/blogging-platform-api
+git clone https://github.com/Marcos-Uriel12/blogging-platform-api
 
 # 1. Crear y activar entorno virtual
 python -m venv venv
