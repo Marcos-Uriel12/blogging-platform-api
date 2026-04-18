@@ -1,3 +1,4 @@
+url:https://roadmap.sh/projects/blogging-platform-api
 # Blogging API
 
 REST API para gestión de blogs construida con FastAPI, SQLAlchemy y MySQL. Permite registrar usuarios, crear posts con categorías y tags, y publicarlos con autenticación JWT.
